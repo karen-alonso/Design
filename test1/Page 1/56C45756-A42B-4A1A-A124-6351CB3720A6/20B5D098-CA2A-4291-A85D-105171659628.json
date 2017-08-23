@@ -7,7 +7,7 @@
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "F866C3D6-6C0F-4083-B302-B994AB5A5BA8",
+  "do_objectID": "20B5D098-CA2A-4291-A85D-105171659628",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 28,
     "width": 54,
     "x": 443,
-    "y": 207
+    "y": 267
   },
   "glyphBounds": "{{0, 5}, {49, 19}}",
   "heightIsClipped": false,
@@ -34,7 +34,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "test1",
+  "name": "test1 copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
