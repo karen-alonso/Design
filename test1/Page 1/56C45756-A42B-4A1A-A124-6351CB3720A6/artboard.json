@@ -67,6 +67,9 @@
     },
     {
       "class": "shapeGroup",
+<<<<<<< HEAD
+      "id": "9DEBA8C2-0E12-48CA-83D3-42A427E4C948"
+=======
       "id": "D0C7C903-A980-4443-AA31-39F9DD05A627"
     },
     {
@@ -76,10 +79,14 @@
     {
       "class": "shapeGroup",
       "id": "6E1F22D7-DCA2-49CE-B5AF-58A7659DC1C1"
+<<<<<<< HEAD
     },
     {
       "class": "text",
       "id": "7F98BAEB-B32F-4D5A-A2AD-115A5247DDB7"
+=======
+>>>>>>> b1e281ca835d9cfe7db0eec1c199f8e688518596
+>>>>>>> e31eaf044ac99265a8d016cbc566174db24eff1b
     }
   ],
   "name": "Artboard",
