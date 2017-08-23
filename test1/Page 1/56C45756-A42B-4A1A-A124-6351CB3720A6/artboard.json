@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -51,43 +51,11 @@
     },
     {
       "class": "text",
-      "id": "6F4DF8FC-1754-4B15-8F90-BA3C55846B19"
-    },
-    {
-      "class": "text",
       "id": "20B5D098-CA2A-4291-A85D-105171659628"
-    },
-    {
-      "class": "text",
-      "id": "9CDC2089-1BD7-4761-9F2F-0ED2B7FADC20"
     },
     {
       "class": "shapeGroup",
       "id": "12D50BCF-D1DF-466C-81AE-92A45206E069"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D0C7C903-A980-4443-AA31-39F9DD05A627"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6051276B-3036-4963-BD34-5FDA43352800"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6E1F22D7-DCA2-49CE-B5AF-58A7659DC1C1"
-    },
-    {
-      "class": "text",
-      "id": "7F98BAEB-B32F-4D5A-A2AD-115A5247DDB7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8645F031-A864-4CD7-B419-597E95082102"
-    },
-    {
-      "class": "text",
-      "id": "C35C66E7-0C71-44E1-B1E7-8F65E8DD1709"
     }
   ],
   "name": "Artboard",

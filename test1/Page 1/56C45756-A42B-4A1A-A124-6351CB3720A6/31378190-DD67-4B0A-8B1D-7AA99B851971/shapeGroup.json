@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 247,
     "width": 202,
-    "x": 156,
+    "x": 81,
     "y": 48
   },
   "hasClickThrough": false,
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.09326430224867724,
-          "green": 0.09326430224867724,
-          "red": 0.9592899659863946
+          "blue": 0.01500117943425001,
+          "green": 0.01500117943425001,
+          "red": 0.3196215986394558
         },
         "fillType": 0,
         "isEnabled": true,
