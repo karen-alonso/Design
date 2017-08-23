@@ -43,6 +43,7 @@
   "layers": [
     {
       "class": "shapeGroup",
+<<<<<<< HEAD
       "id": "31378190-DD67-4B0A-8B1D-7AA99B851971"
     },
     {
@@ -56,6 +57,13 @@
     {
       "class": "shapeGroup",
       "id": "12D50BCF-D1DF-466C-81AE-92A45206E069"
+=======
+      "id": "D0C7C903-A980-4443-AA31-39F9DD05A627"
+    },
+    {
+      "class": "text",
+      "id": "7F98BAEB-B32F-4D5A-A2AD-115A5247DDB7"
+>>>>>>> test1
     }
   ],
   "name": "Artboard",
