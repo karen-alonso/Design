@@ -76,6 +76,10 @@
     {
       "class": "shapeGroup",
       "id": "6E1F22D7-DCA2-49CE-B5AF-58A7659DC1C1"
+    },
+    {
+      "class": "text",
+      "id": "7F98BAEB-B32F-4D5A-A2AD-115A5247DDB7"
     }
   ],
   "name": "Artboard",
